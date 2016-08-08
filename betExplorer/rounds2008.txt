@@ -1,0 +1,380 @@
+10/05/2008 – Nautico 2x1 Goias
+10/05/2008 – Sao Paulo 0x1 Gremio
+10/05/2008 – Vitoria 0x2 Cruzeiro
+11/05/2008 – Botafogo RJ 2x0 Sport Recife
+11/05/2008 – Internacional 1x0 Vasco
+11/05/2008 – Coritiba 2x0 Palmeiras
+11/05/2008 – Betim 0x1 Atletico-PR
+11/05/2008 – Atletico-MG 0x0 Fluminense
+11/05/2008 – Flamengo RJ 3x1 Santos
+11/05/2008 – Portuguesa 5x5 Figueirense
+17/05/2008 – Cruzeiro 1x0 Botafogo RJ
+17/05/2008 – Sport Recife 0x0 Vitoria
+17/05/2008 – Vasco 3x1 Portuguesa
+18/05/2008 – Gremio 0x0 Flamengo RJ
+18/05/2008 – Atletico-PR 1x1 Sao Paulo
+18/05/2008 – Fluminense 0x2 Nautico
+18/05/2008 – Goias 1x1 Atletico-MG
+17/05/2008 – Santos 4x0 Betim
+18/05/2008 – Palmeiras 2x1 Internacional
+18/05/2008 – Figueirense 2x1 Coritiba
+24/05/2008 – Gremio 2x0 Nautico
+24/05/2008 – Flamengo RJ 2x1 Internacional
+24/05/2008 – Vitoria 4x0 Figueirense
+25/05/2008 – Cruzeiro 4x0 Santos
+25/05/2008 – Sao Paulo 1x1 Coritiba
+25/05/2008 – Sport Recife 2x1 Fluminense
+25/05/2008 – Goias 1x1 Betim
+25/05/2008 – Portuguesa 1x1 Palmeiras
+25/05/2008 – Atletico-PR 1x1 Atletico-MG
+25/05/2008 – Botafogo RJ 1x1 Vasco
+31/05/2008 – Vasco 2x1 Gremio
+31/05/2008 – Internacional 1x1 Sport Recife
+31/05/2008 – Figueirense 0x0 Goias
+01/06/2008 – Nautico 3x0 Botafogo RJ
+01/06/2008 – Santos 0x0 Sao Paulo
+01/06/2008 – Coritiba 1x1 Cruzeiro
+01/06/2008 – Betim 2x0 Vitoria
+01/06/2008 – Palmeiras 1x0 Atletico-PR
+01/06/2008 – Atletico-MG 2x0 Portuguesa
+01/06/2008 – Fluminense 0x1 Flamengo RJ
+07/06/2008 – Sao Paulo 5x1 Atletico-MG
+07/06/2008 – Flamengo RJ 5x0 Figueirense
+07/06/2008 – Betim 0x0 Nautico
+08/06/2008 – Atletico-PR 5x0 Goias
+08/06/2008 – Gremio 2x1 Fluminense
+08/06/2008 – Sport Recife 2x0 Palmeiras
+08/06/2008 – Portuguesa 3x1 Internacional
+08/06/2008 – Vitoria 1x0 Santos
+08/06/2008 – Cruzeiro 1x0 Vasco
+08/06/2008 – Botafogo RJ 2x1 Coritiba
+12/06/2008 – Fluminense 1x1 Santos
+12/06/2008 – Palmeiras 5x2 Cruzeiro
+12/06/2008 – Atletico-MG 4x2 Betim
+14/06/2008 – Flamengo RJ 2x4 Sao Paulo
+14/06/2008 – Internacional 2x1 Botafogo RJ
+14/06/2008 – Figueirense 3x1 Sport Recife
+14/06/2008 – Portuguesa 1x0 Atletico-PR
+14/06/2008 – Nautico 1x1 Vasco
+14/06/2008 – Goias 0x3 Gremio
+14/06/2008 – Coritiba 0x0 Vitoria
+21/06/2008 – Botafogo RJ 0x1 Portuguesa
+21/06/2008 – Sao Paulo 1x0 Sport Recife
+21/06/2008 – Cruzeiro 3x0 Figueirense
+21/06/2008 – Coritiba 2x1 Fluminense
+22/06/2008 – Betim 1x3 Flamengo RJ
+22/06/2008 – Vitoria 2x1 Internacional
+22/06/2008 – Vasco 0x2 Palmeiras
+22/06/2008 – Gremio 3x0 Atletico-PR
+22/06/2008 – Santos 0x4 Goias
+22/06/2008 – Nautico 2x1 Atletico-MG
+28/06/2008 – Vasco 4x2 Betim
+28/06/2008 – Portuguesa 0x0 Santos
+28/06/2008 – Vitoria 3x0 Goias
+29/06/2008 – Figueirense 1x1 Atletico-MG
+29/06/2008 – Sport Recife 1x2 Flamengo RJ
+29/06/2008 – Cruzeiro 1x1 Sao Paulo
+29/06/2008 – Atletico-PR 1x1 Coritiba
+29/06/2008 – Palmeiras 2x0 Nautico
+29/06/2008 – Fluminense 0x0 Botafogo RJ
+29/06/2008 – Gremio 1x1 Internacional
+05/07/2008 – Atletico-PR 1x0 Santos
+05/07/2008 – Flamengo RJ 3x0 Nautico
+05/07/2008 – Sport Recife 1x0 Cruzeiro
+06/07/2008 – Figueirense 2x1 Vasco
+06/07/2008 – Atletico-MG 1x1 Palmeiras
+06/07/2008 – Portuguesa 1x2 Vitoria
+06/07/2008 – Internacional 3x0 Coritiba
+06/07/2008 – Sao Paulo 1x1 Betim
+06/07/2008 – Goias 1x0 Fluminense
+06/07/2008 – Botafogo RJ 2x0 Gremio
+09/07/2008 – Internacional 1x0 Goias
+09/07/2008 – Coritiba 4x0 Portuguesa
+09/07/2008 – Fluminense 3x0 Atletico-PR
+09/07/2008 – Vitoria 5x2 Botafogo RJ
+09/07/2008 – Santos 1x1 Gremio
+09/07/2008 – Nautico 2x1 Sao Paulo
+09/07/2008 – Atletico-MG 1x1 Flamengo RJ
+10/07/2008 – Vasco 4x0 Sport Recife
+10/07/2008 – Palmeiras 1x1 Figueirense
+10/07/2008 – Betim 2x2 Cruzeiro
+12/07/2008 – Fluminense 2x1 Vitoria
+12/07/2008 – Goias 2x2 Coritiba
+13/07/2008 – Sao Paulo 2x1 Palmeiras
+13/07/2008 – Atletico-PR 1x1 Internacional
+13/07/2008 – Santos 2x2 Botafogo RJ
+13/07/2008 – Cruzeiro 2x1 Atletico-MG
+13/07/2008 – Betim 0x1 Figueirense
+13/07/2008 – Gremio 2x1 Portuguesa
+13/07/2008 – Flamengo RJ 3x1 Vasco
+13/07/2008 – Nautico 0x2 Sport Recife
+16/07/2008 – Sport Recife 2x2 Gremio
+16/07/2008 – Botafogo RJ 4x0 Betim
+16/07/2008 – Portuguesa 3x2 Nautico
+16/07/2008 – Figueirense 3x0 Santos
+16/07/2008 – Cruzeiro 1x0 Atletico-PR
+16/07/2008 – Palmeiras 3x1 Fluminense
+16/07/2008 – Vitoria 1x3 Sao Paulo
+17/07/2008 – Internacional 1x0 Atletico-MG
+17/07/2008 – Coritiba 1x0 Flamengo RJ
+17/07/2008 – Vasco 1x1 Goias
+19/07/2008 – Betim 4x1 Portuguesa
+19/07/2008 – Fluminense 1x0 Figueirense
+19/07/2008 – Gremio 1x0 Cruzeiro
+20/07/2008 – Goias 3x2 Palmeiras
+20/07/2008 – Santos 1x0 Sport Recife
+20/07/2008 – Atletico-PR 3x1 Vasco
+20/07/2008 – Nautico 1x1 Internacional
+20/07/2008 – Sao Paulo 2x1 Botafogo RJ
+20/07/2008 – Flamengo RJ 0x1 Vitoria
+20/07/2008 – Atletico-MG 3x2 Coritiba
+23/07/2008 – Coritiba 1x0 Betim
+23/07/2008 – Cruzeiro 0x1 Goias
+23/07/2008 – Vitoria 2x0 Nautico
+23/07/2008 – Internacional 2x0 Sao Paulo
+23/07/2008 – Botafogo RJ 4x0 Atletico-MG
+23/07/2008 – Portuguesa 2x2 Flamengo RJ
+23/07/2008 – Vasco 3x3 Fluminense
+24/07/2008 – Palmeiras 4x2 Santos
+24/07/2008 – Figueirense 1x7 Gremio
+24/07/2008 – Sport Recife 1x0 Atletico-PR
+26/07/2008 – Fluminense 1x3 Cruzeiro
+26/07/2008 – Betim 1x0 Internacional
+26/07/2008 – Nautico 1x2 Coritiba
+27/07/2008 – Gremio 1x1 Palmeiras
+27/07/2008 – Santos 5x2 Vasco
+27/07/2008 – Goias 1x2 Sport Recife
+27/07/2008 – Atletico-PR 0x0 Figueirense
+27/07/2008 – Sao Paulo 3x1 Portuguesa
+27/07/2008 – Atletico-MG 2x1 Vitoria
+27/07/2008 – Flamengo RJ 0x0 Botafogo RJ
+30/07/2008 – Vitoria 2x1 Atletico-PR
+30/07/2008 – Cruzeiro 4x2 Nautico
+30/07/2008 – Portuguesa 3x1 Fluminense
+30/07/2008 – Botafogo RJ 2x0 Goias
+30/07/2008 – Internacional 0x1 Santos
+30/07/2008 – Figueirense 1x1 Sao Paulo
+30/07/2008 – Palmeiras 1x0 Flamengo RJ
+31/07/2008 – Coritiba 0x1 Gremio
+31/07/2008 – Vasco 6x1 Atletico-MG
+31/07/2008 – Sport Recife 3x1 Betim
+02/08/2008 – Fluminense 1x2 Internacional
+02/08/2008 – Goias 4x0 Portuguesa
+02/08/2008 – Nautico 1x2 Figueirense
+03/08/2008 – Flamengo RJ 1x2 Cruzeiro
+03/08/2008 – Betim 1x2 Palmeiras
+03/08/2008 – Sao Paulo 4x0 Vasco
+03/08/2008 – Gremio 2x0 Vitoria
+03/08/2008 – Atletico-PR 0x3 Botafogo RJ
+03/08/2008 – Santos 1x3 Coritiba
+03/08/2008 – Atletico-MG 2x1 Sport Recife
+06/08/2008 – Gremio 1x0 Betim
+06/08/2008 – Vasco 0x2 Coritiba
+06/08/2008 – Atletico-PR 2x0 Nautico
+06/08/2008 – Sport Recife 2x0 Portuguesa
+06/08/2008 – Santos 2x3 Atletico-MG
+06/08/2008 – Goias 2x1 Flamengo RJ
+06/08/2008 – Fluminense 3x1 Sao Paulo
+07/08/2008 – Figueirense 1x2 Botafogo RJ
+07/08/2008 – Palmeiras 3x0 Vitoria
+07/08/2008 – Cruzeiro 2x0 Internacional
+09/08/2008 – Flamengo RJ 1x0 Atletico-PR
+09/08/2008 – Atletico-MG 0x4 Gremio
+09/08/2008 – Sao Paulo 2x1 Goias
+10/08/2008 – Coritiba 3x0 Sport Recife
+10/08/2008 – Botafogo RJ 1x0 Palmeiras
+10/08/2008 – Vitoria 5x0 Vasco
+10/08/2008 – Portuguesa 2x1 Cruzeiro
+10/08/2008 – Betim 2x1 Fluminense
+10/08/2008 – Nautico 1x0 Santos
+10/08/2008 – Internacional 1x1 Figueirense
+16/08/2008 – Atletico-PR 5x0 Betim
+16/08/2008 – Figueirense 2x1 Portuguesa
+16/08/2008 – Cruzeiro 2x1 Vitoria
+17/08/2008 – Gremio 1x0 Sao Paulo
+17/08/2008 – Goias 3x0 Nautico
+17/08/2008 – Santos 2x2 Flamengo RJ
+17/08/2008 – Vasco 4x0 Internacional
+17/08/2008 – Fluminense 1x0 Atletico-MG
+17/08/2008 – Sport Recife 0x1 Botafogo RJ
+17/08/2008 – Palmeiras 1x0 Coritiba
+20/08/2008 – Vitoria 0x0 Sport Recife
+20/08/2008 – Coritiba 3x0 Figueirense
+20/08/2008 – Botafogo RJ 1x0 Cruzeiro
+20/08/2008 – Sao Paulo 3x1 Atletico-PR
+20/08/2008 – Internacional 4x1 Palmeiras
+20/08/2008 – Nautico 1x3 Fluminense
+20/08/2008 – Betim 1x1 Santos
+21/08/2008 – Portuguesa 0x1 Vasco
+21/08/2008 – Flamengo RJ 2x1 Gremio
+21/08/2008 – Atletico-MG 1x1 Goias
+23/08/2008 – Fluminense 1x1 Sport Recife
+23/08/2008 – Figueirense 1x2 Vitoria
+24/08/2008 – Internacional 1x1 Flamengo RJ
+24/08/2008 – Santos 2x0 Cruzeiro
+24/08/2008 – Coritiba 2x2 Sao Paulo
+24/08/2008 – Betim 1x0 Goias
+24/08/2008 – Palmeiras 4x2 Portuguesa
+24/08/2008 – Nautico 1x1 Gremio
+24/08/2008 – Vasco 1x1 Botafogo RJ
+24/08/2008 – Atletico-MG 4x0 Atletico-PR
+30/08/2008 – Botafogo RJ 1x1 Nautico
+30/08/2008 – Vitoria 0x0 Betim
+30/08/2008 – Goias 2x0 Figueirense
+31/08/2008 – Gremio 2x1 Vasco
+31/08/2008 – Atletico-PR 1x2 Palmeiras
+31/08/2008 – Sport Recife 1x0 Internacional
+31/08/2008 – Sao Paulo 0x0 Santos
+31/08/2008 – Portuguesa 1x1 Atletico-MG
+31/08/2008 – Flamengo RJ 2x2 Fluminense
+31/08/2008 – Cruzeiro 1x1 Coritiba
+03/09/2008 – Santos 2x0 Vitoria
+03/09/2008 – Figueirense 2x3 Flamengo RJ
+03/09/2008 – Atletico-MG 1x1 Sao Paulo
+03/09/2008 – Goias 4x0 Atletico-PR
+04/09/2008 – Vasco 1x3 Cruzeiro
+04/09/2008 – Palmeiras 0x3 Sport Recife
+06/09/2008 – Fluminense 0x0 Gremio
+06/09/2008 – Internacional 1x0 Portuguesa
+06/09/2008 – Coritiba 0x1 Botafogo RJ
+06/09/2008 – Nautico 2x0 Betim
+13/09/2008 – Gremio 1x2 Goias
+13/09/2008 – Atletico-PR 2x0 Portuguesa
+13/09/2008 – Betim 3x2 Atletico-MG
+14/09/2008 – Sport Recife 5x0 Figueirense
+14/09/2008 – Vasco 1x3 Nautico
+14/09/2008 – Cruzeiro 0x1 Palmeiras
+14/09/2008 – Sao Paulo 2x0 Flamengo RJ
+14/09/2008 – Botafogo RJ 1x2 Internacional
+14/09/2008 – Vitoria 1x0 Coritiba
+14/09/2008 – Santos 2x1 Fluminense
+20/09/2008 – Fluminense 2x3 Coritiba
+20/09/2008 – Goias 4x1 Santos
+20/09/2008 – Atletico-MG 2x1 Nautico
+21/09/2008 – Portuguesa 3x1 Botafogo RJ
+21/09/2008 – Atletico-PR 0x0 Gremio
+21/09/2008 – Sport Recife 0x0 Sao Paulo
+21/09/2008 – Figueirense 3x4 Cruzeiro
+21/09/2008 – Internacional 1x0 Vitoria
+21/09/2008 – Palmeiras 2x0 Vasco
+21/09/2008 – Flamengo RJ 1x0 Betim
+27/09/2008 – Goias 3x0 Vitoria
+27/09/2008 – Flamengo RJ 2x1 Sport Recife
+27/09/2008 – Atletico-MG 0x0 Figueirense
+28/09/2008 – Coritiba 1x1 Atletico-PR
+28/09/2008 – Nautico 0x0 Palmeiras
+28/09/2008 – Betim 3x1 Vasco
+28/09/2008 – Sao Paulo 2x0 Cruzeiro
+28/09/2008 – Botafogo RJ 1x1 Fluminense
+28/09/2008 – Internacional 4x1 Gremio
+28/09/2008 – Santos 1x1 Portuguesa
+01/10/2008 – Fluminense 1x1 Goias
+02/10/2008 – Vitoria 3x1 Portuguesa
+02/10/2008 – Cruzeiro 1x0 Sport Recife
+04/10/2008 – Gremio 2x1 Botafogo RJ
+04/10/2008 – Betim 1x3 Sao Paulo
+04/10/2008 – Palmeiras 3x1 Atletico-MG
+04/10/2008 – Santos 4x0 Atletico-PR
+04/10/2008 – Coritiba 4x2 Internacional
+04/10/2008 – Nautico 0x2 Flamengo RJ
+04/10/2008 – Vasco 2x4 Figueirense
+08/10/2008 – Gremio 2x0 Santos
+08/10/2008 – Sport Recife 2x2 Vasco
+08/10/2008 – Figueirense 0x0 Palmeiras
+09/10/2008 – Botafogo RJ 3x1 Vitoria
+09/10/2008 – Cruzeiro 1x0 Betim
+09/10/2008 – Sao Paulo 1x0 Nautico
+11/10/2008 – Goias 1x1 Internacional
+11/10/2008 – Portuguesa 0x0 Coritiba
+11/10/2008 – Atletico-PR 1x3 Fluminense
+11/10/2008 – Flamengo RJ 0x3 Atletico-MG
+18/10/2008 – Botafogo RJ 0x1 Santos
+18/10/2008 – Internacional 2x1 Atletico-PR
+18/10/2008 – Figueirense 1x1 Betim
+19/10/2008 – Vitoria 2x2 Fluminense
+19/10/2008 – Coritiba 1x1 Goias
+19/10/2008 – Atletico-MG 0x2 Cruzeiro
+19/10/2008 – Palmeiras 2x2 Sao Paulo
+19/10/2008 – Portuguesa 2x0 Gremio
+19/10/2008 – Vasco 0x1 Flamengo RJ
+19/10/2008 – Sport Recife 2x2 Nautico
+22/10/2008 – Goias 2x4 Vasco
+23/10/2008 – Gremio 1x0 Sport Recife
+23/10/2008 – Flamengo RJ 5x0 Coritiba
+23/10/2008 – Sao Paulo 2x1 Vitoria
+25/10/2008 – Fluminense 3x0 Palmeiras
+25/10/2008 – Betim 0x3 Botafogo RJ
+25/10/2008 – Santos 3x0 Figueirense
+25/10/2008 – Atletico-PR 1x0 Cruzeiro
+25/10/2008 – Nautico 1x1 Portuguesa
+25/10/2008 – Atletico-MG 2x2 Internacional
+29/10/2008 – Portuguesa 2x0 Betim
+29/10/2008 – Coritiba 2x1 Atletico-MG
+29/10/2008 – Internacional 1x1 Nautico
+29/10/2008 – Palmeiras 1x0 Goias
+29/10/2008 – Botafogo RJ 1x2 Sao Paulo
+29/10/2008 – Vitoria 0x0 Flamengo RJ
+29/10/2008 – Cruzeiro 3x0 Gremio
+30/10/2008 – Sport Recife 1x1 Santos
+30/10/2008 – Vasco 2x2 Atletico-PR
+30/10/2008 – Figueirense 0x1 Fluminense
+01/11/2008 – Nautico 1x0 Vitoria
+01/11/2008 – Flamengo RJ 2x2 Portuguesa
+01/11/2008 – Betim 2x0 Coritiba
+02/11/2008 – Goias 3x0 Cruzeiro
+02/11/2008 – Santos 1x2 Palmeiras
+02/11/2008 – Atletico-PR 1x0 Sport Recife
+02/11/2008 – Atletico-MG 2x1 Botafogo RJ
+02/11/2008 – Fluminense 0x1 Vasco
+02/11/2008 – Gremio 1x1 Figueirense
+02/11/2008 – Sao Paulo 3x0 Internacional
+08/11/2008 – Portuguesa 2x3 Sao Paulo
+08/11/2008 – Vasco 1x0 Santos
+08/11/2008 – Figueirense 0x2 Atletico-PR
+09/11/2008 – Coritiba 0x0 Nautico
+09/11/2008 – Sport Recife 2x1 Goias
+09/11/2008 – Cruzeiro 1x0 Fluminense
+09/11/2008 – Palmeiras 0x1 Gremio
+09/11/2008 – Botafogo RJ 0x1 Flamengo RJ
+09/11/2008 – Internacional 4x0 Betim
+09/11/2008 – Vitoria 0x1 Atletico-MG
+15/11/2008 – Fluminense 3x1 Portuguesa
+15/11/2008 – Betim 3x0 Sport Recife
+16/11/2008 – Nautico 5x2 Cruzeiro
+16/11/2008 – Santos 1x0 Internacional
+16/11/2008 – Flamengo RJ 5x2 Palmeiras
+16/11/2008 – Atletico-MG 4x1 Vasco
+16/11/2008 – Sao Paulo 3x1 Figueirense
+16/11/2008 – Gremio 2x1 Coritiba
+16/11/2008 – Goias 3x1 Botafogo RJ
+16/11/2008 – Atletico-PR 2x1 Vitoria
+20/11/2008 – Figueirense 4x3 Nautico
+21/11/2008 – Botafogo RJ 2x2 Atletico-PR
+21/11/2008 – Portuguesa 0x0 Goias
+21/11/2008 – Coritiba 5x1 Santos
+23/11/2008 – Vitoria 4x2 Gremio
+23/11/2008 – Vasco 1x2 Sao Paulo
+23/11/2008 – Cruzeiro 3x2 Flamengo RJ
+23/11/2008 – Internacional 0x2 Fluminense
+23/11/2008 – Sport Recife 3x0 Atletico-MG
+23/11/2008 – Palmeiras 2x0 Betim
+30/11/2008 – Botafogo RJ 1x3 Figueirense
+30/11/2008 – Internacional 1x0 Cruzeiro
+30/11/2008 – Vitoria 0x0 Palmeiras
+30/11/2008 – Portuguesa 2x2 Sport Recife
+30/11/2008 – Coritiba 0x2 Vasco
+30/11/2008 – Nautico 2x1 Atletico-PR
+30/11/2008 – Flamengo RJ 3x3 Goias
+30/11/2008 – Betim 1x4 Gremio
+30/11/2008 – Atletico-MG 0x0 Santos
+30/11/2008 – Sao Paulo 1x1 Fluminense
+07/12/2008 – Fluminense 1x1 Betim
+07/12/2008 – Gremio 2x0 Atletico-MG
+07/12/2008 – Goias 0x1 Sao Paulo
+07/12/2008 – Santos 0x0 Nautico
+07/12/2008 – Atletico-PR 5x3 Flamengo RJ
+07/12/2008 – Sport Recife 4x3 Coritiba
+07/12/2008 – Vasco 0x2 Vitoria
+07/12/2008 – Figueirense 3x1 Internacional
+07/12/2008 – Cruzeiro 4x1 Portuguesa
+07/12/2008 – Palmeiras 0x1 Botafogo RJ

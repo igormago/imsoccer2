@@ -1,0 +1,1 @@
+INSERT INTO campeonato (nome, ano) VALUES ('Campeonato Brasileiro - Série A / 2015', 2015)
